@@ -1,2 +1,2 @@
-# Teacher-s-Day-Challenge---VIT
+# Teacher-s-Day-Challenge-VIT
 One problem per day 
