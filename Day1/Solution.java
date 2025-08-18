@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution{
     public int findNumbers(int[] nums) {
         int count = 0;
         
