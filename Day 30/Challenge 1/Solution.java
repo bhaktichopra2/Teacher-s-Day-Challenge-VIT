@@ -1,5 +1,5 @@
 public class Solution {
-    public String firstPalindrome(String[] words) {
+    public String firstPalindrome(String[] words){
         for (String word : words) {
             if (isPali(word)) {
                 return word;
